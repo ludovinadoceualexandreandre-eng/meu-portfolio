@@ -1,0 +1,27 @@
+meu-curriculo
+│
+├── index.html
+├── about.html
+├── portfolio.html
+├── hobbies.html
+├── contact.html
+│
+├── estilo.css
+├── responsivo.css
+│
+└── assets
+    │
+    ├── img
+    │   ├── ludovina.jpg
+    │   ├── projeto-web.jpg
+    │   ├── projeto-java.jpg
+    │   ├── projeto-database.jpg
+    │   ├── projeto-redes.jpg
+    │   ├── certificado-1.jpg
+    │   └── certificado-2.jpg
+    │
+    ├── video
+    │   └── apresentacao.mp4
+    │
+    └── audio
+        └── apresentacao.mp3
